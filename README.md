@@ -9,7 +9,7 @@ For help getting started with GraphQL Apollo Server, view online
 #### 2. Clone the repo
 
 ```sh
-$ https://github.com/asifvora/graphql-server API.git
+$ https://github.com/asifvora/graphql-server.git
 $ cd graphql-server/
 ```
 

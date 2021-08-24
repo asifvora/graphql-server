@@ -22,7 +22,7 @@ $ npm install
 #### 4. Run the server
 
 ```sh
-$ npm run dev
+$ npm start
 ```
 - Go to `http://localhost:PORT_NUMBER` to see the app running
 

@@ -1,8 +1,8 @@
 # Building a GraphQL API with Apollo Server
 
-## Node Express Server
-For help getting started with Node Express, view online
-[documentation](https://expressjs.com/).
+## Apollo Server
+For help getting started with GraphQL Apollo Server, view online
+[documentation](https://www.apollographql.com/).
 
 #### 1. [Setup Node](https://nodejs.org/en/)
 
